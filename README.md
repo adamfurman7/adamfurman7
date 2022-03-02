@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @mindofadam
-- 👀 Interested in tech & web3
-- 🌱 I’m currently learning CS50
-- 💞️ I’m looking to collaborate on web/mobile apps || hackathons (I'm a product marketer with design experience)
-- 📫 How to reach me: adamfurman.co
+### 👋 Hi, I’m Adam!
+- 👀 Interested in tech, web3, security, open-source, & philosophy
+- 🚀 Product Marketer in fintech with an interest in software development.
+- 🌱 I’m currently learning software dev with Scrimba and The Odin Project
 
 <!---
 mindofadam/mindofadam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
