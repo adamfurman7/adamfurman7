@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Adam!
 - 👀 Interested in tech, web3, security, open-source, & philosophy
-- 🚀 Product Marketer in fintech with an interest in software development.
-- 🌱 I’m currently learning software dev with Scrimba and The Odin Project
+- 🚀 Product Marketer in fintech with an interest in coding.
+- 🌱 I’m currently learning software dev with Colt Steele's Udemy course and The Odin Project
 
 <!---
 mindofadam/mindofadam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
