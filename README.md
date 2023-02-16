@@ -1,7 +1,6 @@
-### 👋 Hi, I’m Adam!
-- 👀 Interested in blockchain, privacy/security, and AI/ML
-- 🚀 Currently do product marketing in fintech + health tech
-- 🌱 Learning software dev in the evenings
+### Hi
+
++ teaching myself software development in the evenings
 
 <!---
 mindofadam/mindofadam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
