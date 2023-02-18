@@ -1,6 +1,8 @@
-### Hi
+### Hey there,
 
-+ teaching myself software development in the evenings
+hr
+
+Teaching myself software development in the evenings while working fulltime. 
 
 <!---
 mindofadam/mindofadam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
