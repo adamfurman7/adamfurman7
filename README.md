@@ -1,6 +1,6 @@
 ### Hey there,
 
-hr
+---
 
 Teaching myself software development in the evenings while working fulltime. 
 
