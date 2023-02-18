@@ -1,5 +1,4 @@
-### Hey there,
-#
+# ### Hey there,
 
 Teaching myself software development in the evenings while working fulltime. 
 
