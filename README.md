@@ -1,6 +1,6 @@
 # Hey there
 
-Teaching myself software development on the side. In my dayjob, I'm a product marketing manager at a fintech. 
+Teaching myself software development on the side. In my day job, I'm a product marketing manager at a fintech. 
 
 <!---
 mindofadam/mindofadam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
