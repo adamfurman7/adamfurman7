@@ -3,6 +3,7 @@
 Teaching myself software development on the side.
 
 ### Currently
++ Open source [CS cirriculum]([url](https://github.com/ossu/computer-science))
 + Learning CSR with React
 
 <!---
