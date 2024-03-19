@@ -1,1 +1,2 @@
-# Just here having fun with computers and code. 
+# Hey there 👋
+Just here having fun with computers and code. 
