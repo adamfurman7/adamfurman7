@@ -4,4 +4,4 @@ I'm a career-changer, leaving my role as a product marketing manager in fintech 
 
 
 ### 📊 My Github stats
-[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamfurman7)](https://github.com/adamfurman7/github-readme-stats)
+[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamfurman7?theme=catppuccin_mocha)](https://github.com/adamfurman7/github-readme-stats)
